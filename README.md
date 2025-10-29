@@ -59,29 +59,6 @@ lib/
 javac -d bin -cp "lib/*" src/bank/management/system/*.java
 java -cp "bin;lib/*" bank.management.system.Login
 
-🖥️ Screenshots
-
-### 🔹 Login Page
-![Login Page](https://github.com/Sameeksha-nayak15/BankManagementSystem/blob/main/assets/First_Page.png?raw=true)
-
-### 🔹 Bank Page
-![Bank Page](https://github.com/Sameeksha-nayak15/BankManagementSystem/blob/main/assets/Details.png?raw=true)
-
-
-### 🔹 Deposit Page
-![Deposit Page](https://github.com/Sameeksha-nayak15/BankManagementSystem/blob/main/assets/deposit.png?raw=true)
-
-### 🔹 Mini Statement Page
-![Mini Statement Page](https://github.com/Sameeksha-nayak15/BankManagementSystem/blob/main/assets/mini_state.png?raw=true)
-
-### 🔹 Form1 Page
-![Form1 Page](https://github.com/Sameeksha-nayak15/BankManagementSystem/blob/main/assets/Form1.png?raw=true)
-
-### 🔹 Form2 Page
-![Form2 Page](https://github.com/Sameeksha-nayak15/BankManagementSystem/blob/main/assets/Form2.png?raw=true)
-
-### 🔹 Form3 Page
-![Form3 Page](https://github.com/Sameeksha-nayak15/BankManagementSystem/blob/main/assets/Form3.png?raw=true)
 
 
 
