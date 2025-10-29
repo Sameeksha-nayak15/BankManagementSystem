@@ -67,6 +67,7 @@ java -cp "bin;lib/*" bank.management.system.Login
 ### 🔹 Bank Page
 ![Bank Page](https://github.com/Sameeksha-nayak15/BankManagementSystem/blob/main/assets/Details.png?raw=true)
 
+
 ### 🔹 Deposit Page
 ![Deposit Page](https://github.com/Sameeksha-nayak15/BankManagementSystem/blob/main/assets/deposit.png?raw=true)
 
