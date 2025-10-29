@@ -62,25 +62,26 @@ java -cp "bin;lib/*" bank.management.system.Login
 🖥️ Screenshots
 
 ### 🔹 Login Page
-![Login Page](assets/First_Page.png)
+![Login Page](https://github.com/Sameeksha-nayak15/BankManagementSystem/blob/main/assets/First_Page.png?raw=true)
 
 ### 🔹 Bank Page
-![Bank Page](assets/Details.png)
+![Bank Page](https://github.com/Sameeksha-nayak15/BankManagementSystem/blob/main/assets/Details.png?raw=true)
 
 ### 🔹 Deposit Page
-![Deposit Page](assets/deposit.png)
+![Deposit Page](https://github.com/Sameeksha-nayak15/BankManagementSystem/blob/main/assets/deposit.png?raw=true)
 
 ### 🔹 Mini Statement Page
-![Mini Statement Page](assets/mini_state.png)
+![Mini Statement Page](https://github.com/Sameeksha-nayak15/BankManagementSystem/blob/main/assets/mini_state.png?raw=true)
 
 ### 🔹 Form1 Page
-![Form1 Page](assets/Form1.png)
+![Form1 Page](https://github.com/Sameeksha-nayak15/BankManagementSystem/blob/main/assets/Form1.png?raw=true)
 
 ### 🔹 Form2 Page
-![Form2 Page](assets/Form2.png)
+![Form2 Page](https://github.com/Sameeksha-nayak15/BankManagementSystem/blob/main/assets/Form2.png?raw=true)
 
 ### 🔹 Form3 Page
-![Form3 Page](assets/Form3.png)
+![Form3 Page](https://github.com/Sameeksha-nayak15/BankManagementSystem/blob/main/assets/Form3.png?raw=true)
+
 
 
 ## Getting Started
