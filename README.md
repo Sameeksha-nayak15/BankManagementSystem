@@ -61,27 +61,27 @@ java -cp "bin;lib/*" bank.management.system.Login
 
 🖥️ Screenshots
 
-
 ### 🔹 Login Page
-![Login Page](./assets/First_Page.png)
+![Login Page](assets/First_Page.png)
 
 ### 🔹 Bank Page
-![Bank Page](./assets/Details.png)
+![Bank Page](assets/Details.png)
 
 ### 🔹 Deposit Page
-![Deposit Page](./assets/deposit.png)
+![Deposit Page](assets/deposit.png)
 
 ### 🔹 Mini Statement Page
-![Mini Statement Page](./assets/mini_state.png)
+![Mini Statement Page](assets/mini_state.png)
 
 ### 🔹 Form1 Page
-![Form1 Page](./assets/Form1.png)
+![Form1 Page](assets/Form1.png)
 
 ### 🔹 Form2 Page
-![Form2 Page](./assets/Form2.png)
+![Form2 Page](assets/Form2.png)
 
 ### 🔹 Form3 Page
-![Form3 Page](./assets/Form3.png)
+![Form3 Page](assets/Form3.png)
+
 
 ## Getting Started
 
